@@ -1,5 +1,6 @@
 var expect = chai.expect;
 
+
 describe("PostsView", function(){
   var view, posts;
   beforeEach(function(){
